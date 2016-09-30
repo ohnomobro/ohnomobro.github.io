@@ -1,0 +1,10 @@
+---
+published: true
+title: post[0]
+layout: post
+---
+Because I wanted to change the blog theme, I had to delete the old blog and start over. There wasn't much on the last blog so this will just be post[0].
+
+Tomorrow starts a whole new month, in which I have challenged myself to a 30-in-30. The goals are to build up my portfolio a bit more. It's also to get all these basics I learned so drilled into my head that I can build all the beginner things without much confusion.
+
+I'm so ready for October. Bring it.
