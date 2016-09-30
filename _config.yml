@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ohnomobro.github.io
+title: code commits
+tagline: A log of everyday life
+description: mo documents code
+paginate: 5
