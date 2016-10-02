@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://ohnomobro.github.io
 title: code commits
-tagline: A log of everyday life
-description: mo documents code
+tagline: 
+description: code[mo]
 paginate: 5
