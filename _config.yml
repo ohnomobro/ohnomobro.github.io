@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://ohnomobro.github.io
-title: code commits
+title: blog commits
 tagline: 
-description: code[mo]
+description: mobro[blog]
 paginate: 5
