@@ -1,6 +1,6 @@
 ---
 published: true
-title: post[9] = Oh so tired
+title: post[8] = Oh so tired
 layout: post
 ---
 Spent the day trying to figure out everything. Almost missed a post. So tired. 
