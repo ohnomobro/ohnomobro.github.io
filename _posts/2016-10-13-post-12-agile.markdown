@@ -1,0 +1,8 @@
+---
+published: true
+title: post[12] = Agile
+layout: post
+---
+<p>Just about every job posting I've been looking at includes 'must be familiar with agile' or 'agile work environment'. All I can think is: </p>
+
+<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2F24.media.tumblr.com%2Ftumblr_m2axpif8Sx1r4hwmoo1_500.gif%23finn%2520agile%2520cat%2520500x281&f=1"/>
