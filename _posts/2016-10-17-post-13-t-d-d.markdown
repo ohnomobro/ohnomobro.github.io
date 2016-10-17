@@ -1,0 +1,19 @@
+---
+published: true
+title: post[13] = T.D.D.
+layout: post
+---
+<p>Whoops! I didn't post for a few days because i went to visit a friend and we did a charity 5k together. It was awesome, and a very good reminder that I am very much not in shape. Do not ask me how long it took me to finish that 3.1 miles. (okay it was an 1hr). Long enough (and also fun enough) that I think I want to do another one. But actually train for it.</p>
+<break>
+
+<img src = "https://media.giphy.com/media/M2qCVgOKaSNLG/giphy.gif"/>
+<break>
+
+<p>Anyway...a lot of this month has been me trying to really drill in all of the Ruby basics and doing algorithms over and over until I'm repeating methods in my sleep. One of my favorite training exercises relies heavily on tests in rspec. </p>
+
+<p>Rspec is amazing. I don't know why learning through test driven development isn't more emphasized in the online coding class realm. I feel that my understanding of building classes and methods and syntax has grown exponentially because if something isn't working, I can just look at the tests. I can see exactly where I'm getting things right and exactly where all the errors are coming from. Pinpointing the issues because way easier. It also helps when trying to refactor code, because then I can run tests against the refactor and also get time outputs at the same time.</p>
+<break>
+
+<img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif"/>
+
+
