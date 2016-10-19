@@ -1,5 +1,5 @@
 excerpt_separator: ""
-pygments: true
+pygments: unset
 markdown: kramdown
 url: http://ohnomobro.github.io
 title: blog commits
